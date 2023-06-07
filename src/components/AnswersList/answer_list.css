@@ -1,0 +1,8 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    max-height: 30vh;
+    min-height: 30vh;
+    overflow-y: auto;
+    overflow-x: auto;
+}

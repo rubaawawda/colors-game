@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-color: #d5d0c8;
+  padding: 10px;
+}
+

@@ -1,0 +1,35 @@
+.colorRow {
+    border: 1px solid #6c6060;
+    padding: 10px;
+    width: 307px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.RowForSubmit {
+    position: relative;
+}
+
+.squarColorBorder {
+    width: 35px;
+    height: 35px;
+    color: currentcolor;
+    display: inline-flex;
+    border-radius: 0px;
+    margin: 5px 10px;
+}
+
+.clear {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    padding: 3px 6px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+}

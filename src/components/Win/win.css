@@ -1,0 +1,21 @@
+button {
+    background-color: #8c64d5;
+    border: 1px solid #8d01ad;
+    padding: 5px 15px;
+    cursor: pointer;
+    color: white;
+    font-size: 14px;
+    font-family: cursive;
+    }
+    button:hover{
+      background-color: #cc6f6f;
+    }
+    h1{
+        font-family: math;
+    color: rgb(255 0 0);
+    font-size: larger;
+    }
+    h3{
+        font-family: cursive;
+    color: #ff000057;
+    }
